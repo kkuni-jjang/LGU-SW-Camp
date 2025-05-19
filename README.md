@@ -25,6 +25,7 @@ LGU+ Why Not SW Camp 에서 진행한 프로젝트 &amp; 학습 내용을 정리
 
 ## 팀 프로젝트
 #### [1차 팀 프로젝트: 기획 단계]
+[1차 발표자료 보러가기](https://github.com/kkuni-jjang/wh05-1st-teamH/blob/main/1%EC%B0%A8_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EC%B0%90%EC%B5%9C%EC%A2%85.pdf)
 #### [2차 팀 프로젝트: 프로토타입 제작]
-[2차 자료 보러가기](https://github.com/kkuni-jjang/wh05-2nd-teamH/blob/main/2%EC%B0%A8%20%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C.pdf)
+[2차 발표자료 보러가기](https://github.com/kkuni-jjang/wh05-2nd-teamH/blob/main/2%EC%B0%A8%20%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C.pdf)
 #### [3차 팀 프로젝트: 서비스 구현]
